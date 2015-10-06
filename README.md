@@ -1,2 +1,2 @@
 # DiceRoll
-DiceRoll
+Dice roll app
